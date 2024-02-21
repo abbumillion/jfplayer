@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8347d3e-47a1-40d5-b738-e0fc6fa2ff0c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/AudioCell.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/AudioCollector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/AudioPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/AudioRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/PlayerQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/app/audioplayer/PlayerView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/app/audioplayer/player-view.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/com/app/audioplayer/style.css" afterDir="false" />
-    </list>
+    <list default="true" id="c8347d3e-47a1-40d5-b738-e0fc6fa2ff0c" name="Changes" comment="basic audio player" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +19,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -100,6 +80,19 @@
       <option name="presentableId" value="Default" />
       <updated>1708508209544</updated>
     </task>
+    <task id="LOCAL-00001" summary="basic audio player">
+      <option name="closed" value="true" />
+      <created>1708514769015</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708514769015</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="basic audio player" />
+    <option name="LAST_COMMIT_MESSAGE" value="basic audio player" />
   </component>
 </project>
